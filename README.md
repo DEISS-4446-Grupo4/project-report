@@ -41,7 +41,7 @@
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
 
-## Parte I: As-Is Software Project
+### Parte I: As-Is Software Project
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
@@ -134,7 +134,7 @@
     - [5.2.7 Team Collaboration](#527-team-collaboration-insights)
   - [5.3 Video About-the-Product](#53-video-about-the-product)
 
-## Parte II: Verification, Validation & Pipeline
+### Parte II: Verification, Validation & Pipeline
 
 - [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
   - [6.1 Testing Suites](#61-testing-suites--validation)
@@ -175,7 +175,7 @@
     - [7.4.2 Alerting Pipeline Components](#742-alerting-pipeline-components)
     - [7.4.3 Notification Pipeline Components](#743-notification-pipeline-components)
 
-## Parte III: Experiment-Driven Lifecycle
+### Parte III: Experiment-Driven Lifecycle
 
 - [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
   - [8.1 Experiment Planning](#81-experiment-planning)
